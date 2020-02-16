@@ -21,8 +21,9 @@ function crazy() {
 
 function sayMyName() {
   function sayMy() {
+var name = "Kristin"
     console.log(name);
-    var name = "Kristin";
+  
   }
   // fix the code in here:
   var name = "Cricky";
